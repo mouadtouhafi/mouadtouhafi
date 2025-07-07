@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23086
-Fork on GitHub
-7763
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Touhafi Mouad</h1>
 <h3 align="center">I am TOUHAFI Mouad, an automotive software developer with a strong passion for coding, problem-solving and exploring new programming languages and frameworks. I enjoy building efficient and reliable solutions especially in the automotive domain. Currently, i am trying to expand my skills in modern technologies.</h3>
 
