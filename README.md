@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am TOUHAFI Mouad, an automotive software developer with a strong passion for coding, problem-solving and exploring new programming languages and frameworks. <br>I enjoy building efficient and reliable solutions especially in the automotive domain. <br>Currently, i am trying to expand my skills in modern technologies.
+Passionate Automotive Diagnostic Engineer and Software Developer with over 3 years of experience in Java-based applications, automotive systems, and embedded communication protocols. <br>Skilled in building backend systems, designing user interfaces, test automation, and leveraging diagnostic tools for advanced automotive technologies like ADAS, AUTOSAR, and OTA/FOTA.
 
 
 ## 🌐 Socials:
