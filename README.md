@@ -6,27 +6,27 @@ I am TOUHAFI Mouad, an automotive software developer with a strong passion for c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-touhafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:touhafimouad@gmail.com) 
 
 
-## Programming & Languages
+## 💻 Programming & Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?logo=mysql\&logoColor=white)
 
-## Frameworks, Libraries & UI
+## 📚 Frameworks, Libraries & UI
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-4E7FD1?logo=java\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring\&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring\&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring\&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F5F?logo=thymeleaf\&logoColor=white)
 
-## Web / Backend
+## 🌐 Web / Backend
 
 ![REST API](https://img.shields.io/badge/REST%20API-007ACC) ![JSP](https://img.shields.io/badge/JSP-000000?logo=java\&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-7C4DFF) ![JSTL](https://img.shields.io/badge/JSTL-0F4BFF)
 
-## Testing & Automation
+## 🧪 Testing & Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium\&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5\&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-1E88E5?logo=testng\&logoColor=white)
 
-## Databases
+## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
 
-## DevOps & Containers
+## 🐳 DevOps & Containers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 
