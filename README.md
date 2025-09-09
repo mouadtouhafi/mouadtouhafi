@@ -30,17 +30,17 @@ I am TOUHAFI Mouad, an automotive software developer with a strong passion for c
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 
-## Automotive & Embedded
+## 🚗 Automotive & Embedded
 
-### Communication Protocols
+### 🔌 Communication Protocols
 
 ![CAN](https://img.shields.io/badge/CAN-0A0A0A) ![UDS](https://img.shields.io/badge/UDS-1F7A8C) ![UART](https://img.shields.io/badge/UART-8A2BE2) ![SPI](https://img.shields.io/badge/SPI-FF7F50) ![I2C](https://img.shields.io/badge/I2C-FF6600) ![LIN](https://img.shields.io/badge/LIN-2E8B57) ![KWP2000](https://img.shields.io/badge/KWP2000-6A5ACD)
 
-### Automotive Tools & Diagnostics
+### 🛠️ Automotive Tools & Diagnostics
 
 ![Diagbox (D2C)](https://img.shields.io/badge/Diagbox-D2C-333333) ![Novus](https://img.shields.io/badge/Novus-444444) ![Sonus](https://img.shields.io/badge/Sonus-444444) ![Witech%20II](https://img.shields.io/badge/Witech%20II-444444) ![OdxViewer](https://img.shields.io/badge/Odx%20Viewer-444444) ![Doti](https://img.shields.io/badge/Doti-444444) ![Candela%20Studio](https://img.shields.io/badge/Candela%20Studio-444444) ![Serav](https://img.shields.io/badge/Serav-444444) ![Corvet](https://img.shields.io/badge/Corvet-444444) ![SVN](https://img.shields.io/badge/SVN-CC0033?logo=subversion\&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira\&logoColor=white) ![DocInfo](https://img.shields.io/badge/DocInfo-444444)
 
-## Advanced Automotive Topics
+## 🚀 Advanced Automotive Topics
 
 ![ADAS](https://img.shields.io/badge/ADAS-00A86B) ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-1F8ACB) ![OTA/FOTA](https://img.shields.io/badge/OTA%2FFOTA-FF4500)
 
